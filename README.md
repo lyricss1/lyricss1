@@ -6,20 +6,15 @@
 
 <p align="left">
 I am a Computer Science student passionate about networking, Linux systems, low-level programming and hardware.
-I enjoy building and analyzing systems from the network layer to the hardware level — configuring infrastructure,
+I enjoy building and analyzing systems from the network layer to the hardware level - configuring infrastructure,
 writing software and exploring how technologies work internally.
 </p>
 
-- 🌐 Building networking skills with Cisco technologies, VLANs, routing, switching and network infrastructure
-- 📡 Learning CCNA concepts, TCP/IP, subnetting, network services and troubleshooting
-- 🐧 Linux enthusiast exploring system administration, server management and open-source technologies
-- ⚙️ Learning C programming, memory management, pointers and low-level system concepts
-- 🖥️ Building homelab infrastructure with Raspberry Pi, SFF-PC, Docker, Grafana, Prometheus and self-hosted services
-- 🔐 Interested in cybersecurity, network security and system analysis
-- 🔩 Exploring embedded systems with ESP32, STM32, Raspberry Pi and Arduino
-- 🔌 Working with hardware communication protocols like UART, I2C and SPI
-- 🔍 Exploring reverse engineering, hardware analysis and understanding systems from the inside
-- 🚀 Always learning, experimenting and improving my engineering skills
+- 🌐 **Networking & Infrastructure**: Cisco routing & switching, VLANs, TCP/IP, CCNA concepts, and troubleshooting.
+- ⚙️ **Low-Level & C**: Pure C/C++ development, memory management, pointer mechanics, and socket programming.
+- 🐧 **Linux & Homelab**: System administration, Docker, Prometheus, Grafana, and self-hosted environments.
+- 🔩 **Embedded & Hardware**: ESP32, STM32, Arduino, and communication protocols (UART, SPI, I2C).
+- 🔍 **Security & Reverse Engineering**: System analysis, memory inspection, and hardware-level research.
 
 ---
 
@@ -36,7 +31,6 @@ writing software and exploring how technologies work internally.
 <h3 align="left">Current Learning</h3>
 
 <ul align="left">
-  <li>Deepening knowledge of computer networks, routing, switching and network infrastructure.</li>
   <li>Studying Cisco networking concepts and preparing CCNA-related skills.</li>
   <li>Exploring Linux internals, system administration and server environments.</li>
   <li>Improving C programming skills and understanding low-level software.</li>
@@ -44,30 +38,13 @@ writing software and exploring how technologies work internally.
   <li>Exploring embedded development and hardware communication protocols.</li>
 </ul>
 
-<h3 align="left">Projects & Experiments</h3>
-
+<h3 align="left">My Projects & Experiments</h3>
 <ul align="left">
-  <li>🌐 Network labs with Cisco equipment, VLANs, switching and routing.</li>
-  <li>🐧 Linux servers and self-hosted infrastructure.</li>
-  <li>📊 Monitoring systems with Prometheus, Grafana and Docker.</li>
-  <li>🖥️ Homelab environment using Raspberry Pi and SFF-PC hardware.</li>
-  <li>🔧 Embedded projects with ESP32, STM32, Arduino and Raspberry Pi.</li>
-  <li>🔌 Hardware experiments with UART, I2C and SPI interfaces.</li>
-  <li>💻 Low-level programming experiments in C.</li>
+  <li>⚡ <b>TinyWebESP</b>: Pure C static web server library for ESP32 with zero dependencies.</li>
+  <li>☎️ PBX & VoIP integration: Siemens HiPath / Optiset hardware setup and telephony routing.</li>
+  <li>🌐 Network infrastructure: Cisco switching, VLANs, routing, and Multi-WAN load balancing.</li>
+  <li>🐧 Linux & Homelab: Self-hosted services, Docker, and Raspberry Pi / SFF-PC setups.</li>
+  <li>💻 Low-level development: C/C++, embedded systems, and socket-level networking.</li>
 </ul>
 
 ---
-
-<h2 align="center">Terminal</h2>
-
-```bash
-$ whoami
-lyricss1
-
-$ hostname
-RP3-homelab
-
-$ chmod +x dream.sh
-$ ./dream.sh
-
-> Building...

@@ -41,7 +41,7 @@ writing software and exploring how technologies work internally.
 <h3 align="left">My Projects & Experiments</h3>
 <ul align="left">
   <li>⚡ <b>TinyWebESP</b>: Pure C static web server library for ESP32 with zero dependencies.</li>
-  <li>☎️ PBX & VoIP integration: Siemens HiPath / Optiset hardware setup and telephony routing.</li>
+  <li>☎️ PBX & VoIP integration.</li>
   <li>🌐 Network infrastructure: Cisco switching, VLANs, routing, and Multi-WAN load balancing.</li>
   <li>🐧 Linux & Homelab: Self-hosted services, Docker, and Raspberry Pi / SFF-PC setups.</li>
   <li>💻 Low-level development: C/C++, embedded systems, and socket-level networking.</li>
